@@ -1,0 +1,26 @@
+{
+  "name": "nft-project",
+  "version": "1.0.0",
+  "description": "Minting and creating an NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihteshamulhaq510/NFT-Project.git"
+  },
+  "author": "Ihtesham Ul Haq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihteshamulhaq510/NFT-Project/issues"
+  },
+  "homepage": "https://github.com/ihteshamulhaq510/NFT-Project#readme",
+  "dependencies": {
+    "8": "^0.0.1",
+    "openzepplin-v8": "npm:@openzeppelin/contracts@4.7.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.10.2"
+  }
+}
